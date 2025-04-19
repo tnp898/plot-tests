@@ -5,3 +5,4 @@
 # fix 1654
 # refactor 1022
 # optimize 7244
+# optimize 5722
