@@ -18,3 +18,4 @@ Experiments with matplotlib for visualizing basic numeric data.- Update note 546
 - Update note 7872
 - Update note 3499
 - Update note 4509
+- Update note 3920
