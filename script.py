@@ -28,3 +28,4 @@
 # optimize 6979
 # refactor 9555
 # fix 5653
+# fix 1794
